@@ -1,2 +1,2 @@
 # Codewars
-![alt text](images/calc.jpg)
+[alternativetext](subfolder/calc.jpg)
