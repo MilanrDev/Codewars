@@ -1,0 +1,12 @@
+function correctTail(body, taiy) {
+  
+
+  
+ let sub = body.substr(body.length-(taiy.length))
+  
+  if (sub === taiy) {
+    return true
+  }
+  else 
+    return false
+  }
